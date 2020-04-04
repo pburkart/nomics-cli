@@ -1,7 +1,7 @@
 # nomics-cli
 A CLI to the nomics.com API
 
-Usage: nomics-cli [options] [command]
+```Usage: nomics-cli [options] [command]
 
 Options:
   -V, --version                     ouput the version number
@@ -15,4 +15,4 @@ Commands:
 Examples:
   nomics-cli check price            Returns the price of the top 3 cryptos
   nomics-cli check price --coin=XRP Returns the price of Ripple (XRP)
-  nomics-cli key set                Prompts for the user's API key
+  nomics-cli key set                Prompts for the user's API key```
