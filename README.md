@@ -1,6 +1,5 @@
 # nomics-cli
-A CLI to the nomics.com API
-
+A simple CLI application for retrieving the price, volume, and % change of different cryptocurrencies. This project was done following [Brad Traversy](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)'s "[Node.js CLI for Cryptocurrency Prices](https://www.youtube.com/watch?v=-6OAHsde15E)" tutorial on YouTube. 
 ```Usage: nomics-cli [options] [command]
 
 Options:
