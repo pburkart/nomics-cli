@@ -1,0 +1,19 @@
+{
+  "name": "nomics-cli",
+  "version": "1.0.0",
+  "description": "A CLI to the nomics.com API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pburkart/nomics-cli.git"
+  },
+  "author": "Paul Burkart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pburkart/nomics-cli/issues"
+  },
+  "homepage": "https://github.com/pburkart/nomics-cli#readme"
+}
